@@ -1,0 +1,4 @@
+TUTOR BIAR GA ERROR
+- pertama "y","y"
+- "y" terahir kirim langsung ctrl+z biar berhenti
+- SUKSES

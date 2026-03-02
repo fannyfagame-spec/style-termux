@@ -3,7 +3,7 @@
 This Bash script contains Oh-My-Zsh, command autosuggestion, syntax highlighting plugins, and a custom terminal header with your own name for TERMUX.
 
 ## Preview after setup completed
-<img src="https://user-images.githubusercontent.com/28594846/42722171-e92e650c-8764-11e8-8f65-76a318c1de27.jpeg" width="200" height="220">
+<img src="https://i.ibb.co.com/4Zd7Jy6t/Screenshot-2026-03-02-13-27-38-531-com-termux.jpg" width="200" height="500">
 
 ---
 
@@ -30,7 +30,7 @@ This Bash script contains Oh-My-Zsh, command autosuggestion, syntax highlighting
 
 ## Download & Installation
 
-<img src="https://user-images.githubusercontent.com/28594846/42721978-6b90278c-8761-11e8-97f2-eca4f86e837f.jpeg" width="200" height="220">
+<img src="https://i.ibb.co.com/LDLNVG4y/Screenshot-2026-03-02-13-27-12-478-com-termux.jpg" width="200" height="500">
 
 1. `apt update && yes | apt upgrade && apt update && apt install git -y`
 2. `git clone https://github.com/fannyfagame-spec/style-termux.git`
